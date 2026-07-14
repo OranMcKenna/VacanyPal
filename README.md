@@ -1,6 +1,6 @@
 ## Installation
 
-Aftern unzipping the template, open a terminal in the template folder and run following command to install dependencies.
+After unzipping/downloading the template, open a terminal in the template folder and run following command to install dependencies.
 
 ```
 $ composer install
